@@ -1,5 +1,5 @@
 React Todo App 
-
+Command For The App
 
 git clone https://github.com/abdullah4-web/orakzai-todo-application-react.git
 npm i 
